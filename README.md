@@ -1,2 +1,3 @@
 # NotSteveButJobs API
-Website:https://api.nsbj.team/
+Our API is still in the very first stage, a lot of function may not available.
+Project webste: https://api.nsbj.team/
