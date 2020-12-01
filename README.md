@@ -1,2 +1,2 @@
-# API
-NSBJ API
+#NotSteveButJobs API
+Website:https://api.nsbj.team/
